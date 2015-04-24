@@ -6,5 +6,8 @@ pom.xml.next
 release.properties
 dependency-reduced-pom.xml
 buildNumber.properties
+<<<<<<< HEAD
 *.iml
 .idea
+=======
+>>>>>>> 30a86e8f4dc13362942ab5be0cfe1aadd170fd64
